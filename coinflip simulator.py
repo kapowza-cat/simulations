@@ -4,7 +4,7 @@ import random
 current = 0
 times = 0
 increment = 1
-target = 30
+target = 25
 
 while increment < target+1:
     while current !=increment:
@@ -16,4 +16,3 @@ while increment < target+1:
     print(times , "at" , increment)
     increment+=1
     times = 0
-    current = 0
