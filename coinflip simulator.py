@@ -16,3 +16,4 @@ while increment < target+1:
     print(times , "at" , increment)
     increment+=1
     times = 0
+    current = 0
