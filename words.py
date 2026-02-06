@@ -17,4 +17,4 @@ def filter_five_letter_words(input_file, output_file):
         print("Error: The file 'all_words.txt' was not found.")
 
 # Run the function
-filter_five_letter_words('all words.txt', 'five_letter_words.txt')
+filter_five_letter_words('all_flw.txt', 'all_five_letter_words.txt')
